@@ -2,7 +2,7 @@ title: My Learning Path
 description: A couple of great learning resources!
 steps:
   # Point to a course on Learning Lab owned by the same user or organization as this Learning Path
-  - course: introduction-to-github
+  #- course: introduction-to-github
 
   # Point to a course owned by another user on Learning Lab
   - course: githubtraining/introduction-to-github
