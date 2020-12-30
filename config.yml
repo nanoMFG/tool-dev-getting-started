@@ -7,6 +7,15 @@ steps:
   # Point to a course owned by another user on Learning Lab
   - course: githubtraining/introduction-to-github
 
+  # Training on what to include in open source projects
+  - course: githubtraining/community-starter-kit
+
+  # Training on uploading an existing/finished project to github
+  - course: githubtraining/uploading-your-project-to-github
+
+  # Training for reviewing pull requests from other users
+  - course: githubtraining/reviewing-pull-requests
+    
   # Point to an external link
   #- link: https://opensource.guide/starting-a-project/#writing-a-readme
   #  title: The ingredients of a great README 
