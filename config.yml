@@ -1,14 +1,17 @@
-title: Intro to nanoMFG Tool Development
+title: Intro to nanoMFG Tool Development ang GitHub
 description: Getting started.
 steps:
-  # Point to a course on Learning Lab owned by the same user or organization as this Learning Path
-  #- course: introduction-to-github
+  # Basic GitHub Intro
+  - link: https://www.youtube.com/watch?v=w3jLJU7DT5E
+    video: https://www.youtube.com/watch?v=w3jLJU7DT5E
+    title: What is GitHub?
+    description: >-
+      Hey, it's your first time here, so let's not take any chances.
+      Check out this short video to understand why people use GitHub.
+  - course: introduction-to-github
 
   # Point to a course owned by another user on Learning Lab
   - course: githubtraining/introduction-to-github
-
-  # Training on what to include in open source projects
-  - course: githubtraining/community-starter-kit
 
   # Training on uploading an existing/finished project to github
   - course: githubtraining/uploading-your-project-to-github
@@ -16,15 +19,34 @@ steps:
   # Training for reviewing pull requests from other users
   - course: githubtraining/reviewing-pull-requests
 
+  # Training on what to include in open source projects
+  - course: githubtraining/community-starter-kit
+
+  # nanoMFG community
+  - link: https://nanomfg.github.io/community
+    title: nanoMFG Community Resources
+    description: >-
+      Explore the nanoMFG developer community page.
+
+  # Jupyter on nanoHUB
+  - link: https://nanohub.org/tools/jupyterexamples
+    title: Examples for Jupyter Notebook Applications on nanoHUB
+
+  # Develop Jupyter on nanoHUB
+  - link: https://nanohub.org/tools/jupyter
+    title: nanoHUB Jupyter Notebook Tool
+    description: >-
+      Develop Jupyter applications on the nanoMFG hosted notebook hub.
+
   # Training courses for github actions
   # Intro
-  - course: githubtraining/github-actions:-hello-world
+  #- course: githubtraining/github-actions:-hello-world
 
   # CI focus
-  - course: githubtraining/github-actions:-continuous-integration
+  #- course: githubtraining/github-actions:-continuous-integration
 
   # Github Script
-  - course: githubtraining/github-actions:-using-github-script
+  #- course: githubtraining/github-actions:-using-github-script
     
   # Point to an external link
   #- link: https://opensource.guide/starting-a-project/#writing-a-readme
@@ -33,10 +55,4 @@ steps:
   #    Great READMEs help users understand your project, why it matters and what they can do with it.
   #    This guide shares some helpful tips to write great READMEs.
 
-  # Embed a video
-  #- link: https://www.youtube.com/watch?v=w3jLJU7DT5E
-  #  video: https://www.youtube.com/watch?v=w3jLJU7DT5E
-  #  title: What is GitHub?
-  #  description: >-
-  #    Hey, it's your first time here, so let's not take any chances.
-  #    Check out this short video to understand why people use GitHub.
+  
