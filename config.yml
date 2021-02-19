@@ -1,8 +1,9 @@
-title: Intro to nanoMFG Tool Development ang GitHub
-description: Getting started.
+title: Intro to nanoMFG Tool Development and GitHub
+description: Intoduction to the basic machinery of Github and to learning how to contribute tool projects to the nanoHub.
 steps:
   # Basic GitHub Intro
-  - link: https://www.youtube.com/watch?v=w3jLJU7DT5E
+  - url: 
+    link: https://www.youtube.com/watch?v=w3jLJU7DT5E
     video: https://www.youtube.com/watch?v=w3jLJU7DT5E
     title: What is GitHub?
     description: >-
