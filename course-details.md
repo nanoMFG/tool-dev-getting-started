@@ -1,1 +1,2 @@
 # Getting Started with nanoHUB Tool Development
+Thanks for joining the nanoMFG developer community.  To get started we have collected a set of basic GitHub course that we think provide a good introduction to the platform.  Following that we have links to resources on both the nanoHUB site and our community repo for getting started with Jupyter-based tool publication.
