@@ -8,7 +8,6 @@ steps:
     description: >-
       Hey, it's your first time here, so let's not take any chances.
       Check out this short video to understand why people use GitHub.
-  - course: introduction-to-github
 
   # Point to a course owned by another user on Learning Lab
   - course: githubtraining/introduction-to-github
